@@ -281,8 +281,6 @@ github.com/gorilla/context v0.0.0-20160226214623-1ea25387ff6f/go.mod h1:kBGZzfjB
 github.com/gorilla/mux v1.4.0/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/greenpau/caddy-trace v1.1.11 h1:UnHjAHyvX3WklxynF8BThqniJD5vmw8c4pUwNGTTo08=
 github.com/greenpau/caddy-trace v1.1.11/go.mod h1:eoULUQ1k0zzwBVpq8V67C1PUEF64xeS6n8TBsRpXC8M=
-github.com/greenpau/go-authcrunch v1.0.40 h1:WCAP4n6mD80XYWuyKfrCF2OwfMMjiAckmuBQSPoCQyo=
-github.com/greenpau/go-authcrunch v1.0.40/go.mod h1:VTVSElvp8C9Xxs4d9c83qKyZi4VCUFqrzpD4nE7/5E4=
 github.com/greenpau/versioned v1.0.28 h1:qgoZYy2bNbWAC5Bb0sVVfv/UHSac4PuCwdQMHpp/f6s=
 github.com/greenpau/versioned v1.0.28/go.mod h1:rtFCvaWWNbMH4CJnje/xicgmrM63j++rUh5juSu0k/A=
 github.com/groob/finalizer v0.0.0-20170707115354-4c2ed49aabda/go.mod h1:MyndkAZd5rUMdNogn35MWXBX1UiBigrU8eTj8DoAC2c=
